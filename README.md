@@ -112,7 +112,7 @@ Together, these components enable a complete autonomous search and rescue workfl
 
 **Expected Output**  
 
-Gazebo simulation launches successfully
-TurtleBot3 Waffle moves autonomously
-Rescue behavior node controls robot actions
-Victim positions are continuously reported
+Gazebo simulation launches successfully  
+TurtleBot3 Waffle moves autonomously  
+Rescue behavior node controls robot actions  
+Victim positions are continuously reported  

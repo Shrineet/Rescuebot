@@ -52,7 +52,7 @@ _sudo apt install ros-humble-turtlebot3*_
 
 **How to Run the Project**
 
-_**Terminal 1: Launch Simulation (Gazebo World)**_
+_**Terminal 1: Launch Simulation (Gazebo World)**_  
 This terminal starts the ROS2 environment and launches the custom rescue simulation world.
 
 ```bash
@@ -104,9 +104,9 @@ Useful for monitoring and debugging rescue performance
 
 
 **All three terminals must run at the same time:**  
-Terminal 1: Gazebo simulation + rescue world
-Terminal 2: Main autonomous rescue behavior
-Terminal 3: Victim pose reporting
+Terminal 1: Gazebo simulation + rescue world  
+Terminal 2: Main autonomous rescue behavior  
+Terminal 3: Victim pose reporting  
 
 Together, these components enable a complete autonomous search and rescue workflow.
 

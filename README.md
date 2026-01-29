@@ -24,6 +24,7 @@ The system is designed to be run using multiple ROS2 nodes, each responsible for
 4) Python
 
 **📂 Workspace Structure**
+```bash
 rescue_ws/
 ├── src/
 │   ├── rescue_worlds/        # Custom Gazebo rescue world
@@ -32,6 +33,7 @@ rescue_ws/
 ├── build/
 ├── install/
 └── log/
+```
 
 **Prerequisites**
 Before running the project, make sure the following are installed:

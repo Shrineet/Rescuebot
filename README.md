@@ -44,6 +44,7 @@ Before running the project, make sure the following are installed:
 
 **Install TurtleBot3 packages:**
 
+```bash
 _sudo apt install ros-humble-turtlebot3*_
 
 **How to Run the Project**
@@ -51,9 +52,8 @@ _sudo apt install ros-humble-turtlebot3*_
 _**Terminal 1: Launch Simulation (Gazebo World)**_
 This terminal starts the ROS2 environment and launches the custom rescue simulation world.
 
-_source /opt/ros/humble/setup.bash
-ros2 launch rescue_worlds rescue_tb3_world.launch.py_
-
+__source /opt/ros/humble/setup.bash
+ros2 launch rescue_worlds rescue_tb3_world.launch.py
 
 **Purpose:**
 Sets up ROS2 environment
